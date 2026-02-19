@@ -1,12 +1,12 @@
-📊 E-Commerce Data Analysis
-📌 Project Overview
+# 🛒 E-Commerce Sales Analysis – Olist Data Analytics Project
+## 📌 Project Overview
 
 This project presents an end-to-end analysis of an E-Commerce transactional dataset to derive meaningful business insights related to revenue performance, customer behavior, and product trends. The objective was to transform raw sales data into actionable insights using structured querying, data preprocessing, and interactive dashboard visualization.
 
 The project demonstrates strong analytical thinking, data handling capability, and business-oriented problem-solving skills.
 
 
-🎯 Objectives
+## 🎯 Business Objectives
 
 Evaluate overall sales, revenue, and profit performance
 
@@ -18,7 +18,7 @@ Understand customer purchasing behavior
 
 Provide data-driven business recommendations
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies Used
 
 SQL – Data extraction, transformation, KPI calculation
 
@@ -28,7 +28,7 @@ Power BI – Interactive dashboard development
 
 Tableau – Data visualization and trend analysis
 
-📊 Key Analysis Performed
+## 📈 Key Insights
 
 Revenue and Profit Analysis
 
@@ -67,4 +67,6 @@ The analysis uncovers growth opportunities, identifies high-performing segments,
 
 ## 👩‍💻 Author
 Gouri Manoj
+
+
 Aspiring Data Analyst | SQL | Power BI | Excel | Tableau
