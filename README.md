@@ -45,13 +45,13 @@ Regional Sales Distribution Analysis
  📊 Dashboard Screenshots
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](power bi (1) ss.jpg)
+![Power BI Dashboard(power bi (1) ss.jpg)
 ![Power BI Dashboard](power bi (2) ss.jpg)
 ### 🔹 Tableau Dashboard
 ![Tableau Dashboard](tableau.jpg)
 
 ### 🔹 Excel Dashboard
-![Excel Dashboard](excel dashboard.jpg)
+![excel dashboard](excel dashboard.jpg)
 
 
 
